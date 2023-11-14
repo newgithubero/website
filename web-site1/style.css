@@ -370,14 +370,18 @@ color: rgba(72, 106, 111, 1);
 
 .logos{
   display: flex;
- margin: auto;
- border: 1px solid gray ;
-  width:  (183px);
-height:  (139px);
-left: -0.5px;
-padding: 20px;
-gap: 40px;
-margin-top: 40px;;
+  justify-content: space-around;
+  align-items: center;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  width:  (1,183px);
+  height:  (122px);
+  left: -0.5px;
+  padding: 20px;
+  gap: 40px;
+  
+
+
 
 
 }
