@@ -370,18 +370,32 @@ color: rgba(72, 106, 111, 1);
 
 .logos{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   border-top: 1px solid gray;
   border-bottom: 1px solid gray;
   width:  (1,183px);
   height:  (122px);
   left: -0.5px;
-  padding: 20px;
+  padding: 20px 20px;
   gap: 40px;
+  margin: 10px 10px ;
+ 
   
 
 
+}
 
+.bg4{
+  width: 1440px;
+height: 869px;
+top: 869px;
+left: 1px;
+background: rgba(244, 247, 255, 1);
 
+}
+
+.logos .logo5{
+  margin-right: 90px;
+  
 }
