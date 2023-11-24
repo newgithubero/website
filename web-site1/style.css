@@ -405,7 +405,7 @@ background: rgba(244, 247, 255, 1);
 
 .bg5{
   width: 1440px;
-height: 1138px;
+height: 1738px;
 top: 1738px;
 left: 1px;
 background: rgba(225, 235, 250, 1);
@@ -709,6 +709,141 @@ font-size: 16px;
 }
 
 .text-card6 h4{
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
+  padding: 10px
+}
+
+
+
+
+
+
+.row3{
+  display: flex;
+  justify-content: center;
+  width: (700px);
+height:  (690px);
+padding: 20px;
+gap: 40px;
+
+}
+
+
+.card7{
+  width: 300px;
+  height: 350px;
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+
+}
+
+
+.img-card7{
+  width: 300px;
+  height: 260px;
+  top: 3px;
+  border-radius: 5px 5px 0px 0px;  
+
+}
+
+.text-card7 h3{
+
+width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+    color: rgba(72, 106, 111, 1);
+    padding: 10px;
+}
+
+.text-card7 h4{
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
+  padding: 10px
+}
+
+
+
+.card8{
+  width: 300px;
+  height: 350px;
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+
+}
+
+.img-card8{
+  width: 300px;
+  height: 260px;
+  top: 3px;
+  border-radius: 5px 5px 0px 0px; 
+}
+
+.text-card8 h3{
+  width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+    color: rgba(72, 106, 111, 1);
+    padding: 10px;
+}
+
+.text-card8 h4{
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
+  padding: 10px
+}
+
+
+.card9{
+  width: 300px;
+  height: 350px;
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+
+}
+
+.img-card9{
+  width: 300px;
+  height: 260px;
+  top: 3px;
+  border-radius: 5px 5px 0px 0px; 
+}
+
+
+.text-card9{
+  width: Fixed (300px);
+height: Fixed (87px);
+top: 263px;
+padding: 20px;
+gap: 5px;
+
+}
+
+.text-card9 h3{
+  width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+    color: rgba(72, 106, 111, 1);
+    padding: 10px;
+
+}
+
+.text-card9 h4{
   width: 260px;
   height: 20px;
   font-weight: 500;
