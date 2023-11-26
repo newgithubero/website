@@ -435,12 +435,13 @@ gap: 40px;
 .texts h3{
   font-weight: 500;
   font-size: 16px;
-  line-height: 60px;
+  line-height: 80px;
   text-align: center;
   color: rgba(91, 204, 222, 1);
+    
 }
 
-.texts h2{
+.texts  h2{
   font-weight: 700;
   font-size: 36px;
   line-height: 30px;
@@ -452,6 +453,7 @@ gap: 40px;
 .cards{
   width:  (1,200px);
 height: (1,170px);
+margin-top: 120px;                                                                  0px;
 
 
 }
@@ -824,8 +826,8 @@ width: 214px;
 
 
 .text-card9{
-  width: Fixed (300px);
-height: Fixed (87px);
+  width:  (300px);
+height:  (87px);
 top: 263px;
 padding: 20px;
 gap: 5px;
@@ -839,7 +841,7 @@ gap: 5px;
   font-size: 16px;
   line-height: 22px;
     color: rgba(72, 106, 111, 1);
-    padding: 10px;
+    
 
 }
 
@@ -850,5 +852,5 @@ gap: 5px;
   font-size: 16px;
   line-height: 32px;
   color: rgba(103, 140, 146, 1);
-  padding: 10px
+ 
 }
