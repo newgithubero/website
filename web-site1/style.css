@@ -954,3 +954,46 @@ color: rgba(72, 106, 111, 1);
   margin-left: 30px;
   margin-top: 181px;
 }
+
+
+
+footer{
+  width: 1200px;
+  height: 256px;
+  top: 3565px;
+  left: 120px;
+}
+
+
+
+.text-inputs{
+  width: 1440px;
+  height: 434px;
+  background: linear-gradient(0deg, #486A6F, #486A6F),
+  linear-gradient(84.81deg, rgba(72, 106, 111, 0.2) 0%, rgba(67, 151, 164, 0.2) 100%);
+  
+}
+
+.text-input1{
+  width: 155px;
+  height: 44px;
+ text-align: left;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 124px;
+  color: rgba(244, 247, 255, 1);
+  margin-left: 40px;
+}
+
+
+.text-company h3 {
+  width: 288px;
+  height: 160px;
+  top: 52px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 143px;
+  color: rgba(244, 247, 255, 1);
+  margin-left: 38px;
+
+}
