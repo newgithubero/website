@@ -986,14 +986,72 @@ footer{
 }
 
 
-.text-company h3 {
-  width: 288px;
-  height: 160px;
-  top: 52px;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 143px;
-  color: rgba(244, 247, 255, 1);
-  margin-left: 38px;
+.button-container{
 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 140px;
+  height: 140px;
+  top: 158px;
+  left: 349px;
+  gap: 20px;
+}
+
+.button-container .button1{
+
+  width: 40px;
+  height: 40px;
+  border-radius: 6px;
+  background: rgba(103, 140, 146, 1);
+  border: none;
+  
+}
+
+
+.button-container .button2{
+  width: 40px;
+  height: 40px;
+  border-radius: 6px;
+  background: rgba(103, 140, 146, 1);
+  border: none;
+  
+}
+
+
+.button-card{
+  width: 24px;
+  height: 24px;
+  top: 8px;
+  left: 8px;
+  
+
+}
+
+.vector1-card1{
+  width: 20px;
+  height: 20px;
+  top: 2px;
+  left: 2px;
+  border-radius: 2px;
+  margin-left: 10px;
+  
+ 
+}
+
+
+.vecto2-card1{
+  width: 0.01px;
+top: 6.5px;
+left: 17.5px;
+line-height: 130px;
+  
+}
+
+
+
+.vector-button2{
+  width: 11px;
+  height: 20px;
+  border-radius: 2px;
 }
