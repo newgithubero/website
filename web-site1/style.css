@@ -1055,3 +1055,93 @@ line-height: 130px;
   height: 20px;
   border-radius: 2px;
 }
+
+
+.text-input-container{
+  width: 852px;
+  height: 216px;
+  margin: auto 100px;
+  
+
+}
+
+.text-input2{
+  width: 852px;
+  height: 178px;
+  top: 38px;
+  left: 347px;
+  display: flex;
+  justify-content: space-around;
+  
+  
+ 
+}
+
+
+.text-input2 a{
+  color: rgba(244, 247, 255, 1);
+} 
+
+.paraghrap-container1 {
+  width: 248px;
+  height: 178px;
+  top: 38px;
+  left: 951px;
+
+}
+
+.paraghrap-container1 p a{
+  width: 68px;
+  height: 32px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(244, 247, 255, 1);
+}
+
+.paraghrap-container2{
+  width: 124px;
+  height: 108px;
+  top: 38px;
+  left: 695px;
+
+}
+
+
+.paraghrap-container2 p a{
+  width: 68px;
+  height: 32px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(244, 247, 255, 1);
+}
+
+
+.paraghrap-container3{
+  width: 248px;
+  height: 178px;
+  top: 38px;
+  left: 951px;
+  margin-left: 40px;
+
+}
+
+.paraghrap-container3 p a{
+  width: 248px;
+  height: 64px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+
+.text-devlop{
+  width: 28px;
+  height: 120px;
+  top: 52px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(244, 247, 255, 1);
+}
