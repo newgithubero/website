@@ -1061,6 +1061,8 @@ line-height: 130px;
   width: 852px;
   height: 216px;
   margin: auto 100px;
+  margin-left: 180px;
+  margin-top: 60px;
   
 
 }
@@ -1135,6 +1137,14 @@ line-height: 130px;
   line-height: 32px;
 }
 
+.paraghrap-container3  h3{
+  width: 248px;
+  height: 64px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  margin-top: 50px;
+}
 
 .text-devlop{
   width: 28px;
