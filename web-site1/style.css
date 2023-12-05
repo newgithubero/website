@@ -1074,6 +1074,7 @@ line-height: 130px;
   left: 347px;
   display: flex;
   justify-content: space-between;
+ 
   
   
  
@@ -1106,6 +1107,7 @@ line-height: 130px;
   height: 108px;
   top: 38px;
   left: 695px;
+  margin-left: 10px;
 
 }
 
@@ -1125,7 +1127,8 @@ line-height: 130px;
   height: 178px;
   top: 38px;
   left: 951px;
-  margin-left: 40px;
+  margin-left: 120px;
+  gap: 170px;
 
 }
 
