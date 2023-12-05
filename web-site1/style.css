@@ -980,7 +980,7 @@ footer{
  text-align: left;
   font-size: 24px;
   font-weight: 700;
-  line-height: 124px;
+  line-height: 192px;
   color: rgba(244, 247, 255, 1);
   margin-left: 40px;
 }
@@ -1061,7 +1061,7 @@ line-height: 130px;
   width: 852px;
   height: 216px;
   margin: auto 100px;
-  margin-left: 180px;
+  margin-left: 40px;
   margin-top: 60px;
   
 
@@ -1144,14 +1144,16 @@ line-height: 130px;
   font-size: 16px;
   line-height: 32px;
   margin-top: 50px;
+   
 }
 
-.text-devlop{
-  width: 28px;
-  height: 120px;
+.text-devlop h3{
+  width: 290px;
+  height: 160px;
   top: 52px;
   font-weight: 500;
   font-size: 16px;
-  line-height: 32px;
+  line-height: 126px;
   color: rgba(244, 247, 255, 1);
-}
+  text-align: left;
+}   
