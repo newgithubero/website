@@ -1083,6 +1083,7 @@ line-height: 130px;
 
 .text-input2 a{
   color: rgba(244, 247, 255, 1);
+     text-align: center;
 } 
 
 .paraghrap-container1 {
@@ -1107,7 +1108,7 @@ line-height: 130px;
   height: 108px;
   top: 38px;
   left: 695px;
-  margin-left: 10px;
+  margin-left: 32px;
 
 }
 
@@ -1127,8 +1128,8 @@ line-height: 130px;
   height: 178px;
   top: 38px;
   left: 951px;
-  margin-left: 120px;
-  gap: 170px;
+  margin-left: 193px;
+
 
 }
 
@@ -1159,4 +1160,5 @@ line-height: 130px;
   line-height: 126px;
   color: rgba(244, 247, 255, 1);
   text-align: left;
+  margin-left: 6px;
 }   
