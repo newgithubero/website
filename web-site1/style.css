@@ -271,21 +271,18 @@ align-items: center;
  
 }
 
-.icon1 span{
- 
-   margin-left: 120px;
-   width: 62px;
-  height: 49px;
-  top: 289px;
-  left: 603px;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 4px;
-  letter-spacing: 0em;
-  ;
-  color: rgba(72, 106, 111, 1);
+.card span{
+  width: 83px;
+height: 49px;
+top: 289px;
+left: 287px;
+font-size: 36px;
+font-weight: 700;
+line-height: 49px;
+letter-spacing: 0em;
+text-align: left;
 
-  
+
 }
 
 
@@ -364,6 +361,7 @@ color: rgba(72, 106, 111, 1);
   color: rgba(72, 106, 111, 1);
 
 }
+
 
 
 
