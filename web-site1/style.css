@@ -240,6 +240,7 @@ linear-gradient(135deg, rgba(103, 140, 146, 0.2) 0%, rgba(158, 213, 222, 0.2) 10
   padding-left: 20px;
 }
 
+
 .icon2 img{
   padding-top: 10px;
   padding-left: 10px ;
@@ -259,7 +260,28 @@ linear-gradient(135deg, rgba(103, 140, 146, 0.2) 0%, rgba(158, 213, 222, 0.2) 10
   padding-left: 10px ;
 }
 
+.icon1 span{
+  margin: auto 50px;
+  line-height: 20px;
+}
 
+
+.partners{
+  display: flex;
+  justify-content: center;
+}
+
+.lines{
+  width: 1200px;
+  height: 123px;
+  opacity: 80%;
+}
+
+.line1{
+ width: 1200;
+  height:  1.16px;
+  background-color:  rgba(103, 140, 146, 1)
+}
 
 .bg4{
   width: 1440px;
