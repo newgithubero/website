@@ -656,6 +656,7 @@ gap: 5px;
   line-height: 280px;
   color: rgba(72, 106, 111, 1);
   margin-left: 47px;
+ 
   
 }
 
@@ -664,6 +665,7 @@ gap: 5px;
   justify-content: flex-end;
   text-align: center;
   margin-top: 20px;
+  cursor: pointer;
   
 }
 
@@ -683,6 +685,7 @@ gap: 5px;
   border-radius: 3px;
   border: none;
   margin-top: 50px;
+  cursor: pointer;
 
 
 }
@@ -710,6 +713,7 @@ gap: 5px;
   background:rgba(198, 219, 255, 1) ;
   margin: 30px;
   margin-top: 50px;
+  cursor: pointer;
  
 }
 
